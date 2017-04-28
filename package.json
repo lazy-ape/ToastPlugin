@@ -1,0 +1,25 @@
+{
+  "name": "ToastPlugin",
+  "version": "0.0.1",
+  "description": "ionic native toast",
+  "cordova": {
+    "id": "cordova-plugin-custoast",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazy-ape/ToastPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "qiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazy-ape/ToastPlugin/issues"
+  },
+  "homepage": "https://github.com/lazy-ape/ToastPlugin#readme"
+}
